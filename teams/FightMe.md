@@ -5,3 +5,4 @@
 * Bryant Hernandez, [BHM03](https://github.com/BHM03)
 * Nikola Rakocevic, [nrakocevic](https://github.com/nrakocevic)
 * Taiga O'Donnell, [TaigaODonnell](https://github.com/TaigaODonnell)
+* Daniel Gin, [CharcoalNuggets](https://github.com/CharcoalNuggets)
